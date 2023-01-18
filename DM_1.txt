@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 texto rama
+=======
+texto master
+>>>>>>> 3b3d2ef (Commit master texto)
